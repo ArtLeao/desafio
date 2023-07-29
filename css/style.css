@@ -194,14 +194,14 @@ footer p{
 
 @media screen and (max-width: 840px){
     .conteudo{
-        width: 80vw;
+        width: 90%;
         padding: 20px;
     }
     iframe{
-        width: 70vw;
+        width: 90%;
     }
     .extra{
-        width: 80vw;
+        width: 100%;
     }
 }
 
